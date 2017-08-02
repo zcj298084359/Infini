@@ -1,0 +1,55 @@
+@charset "utf-8";
+.join_center{
+	width: 100%;
+	margin: 0px auto;
+	position: relative;
+	margin-top: 130px;
+	min-width: 300px;
+	overflow: hidden;
+	max-width: 600px;	
+}
+
+.join_wrap{
+	width: 100%;
+	margin: 0 auto;
+	color: black;
+	min-width: 300px;
+}
+.join_logo{
+	width: 100%;
+	margin: 0 auto;
+	min-width: 300px;
+}
+.join_logo img{
+	width: 100%;
+}
+.join_img{
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	min-width: 300px;
+}
+.join_img img{
+	width: 170px;
+}
+.join_img_b{
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	min-width: 300px;
+}
+.join_img_b img{
+	width: 275px;
+}
+.join_wrap h3{
+	margin: 20px 0;
+}
+.join_wrap p{
+	line-height: 1.3em;
+}
+.join_title{
+	font-size: 1.0em;
+}
+.join_content{
+	font-size: 0.8em;
+	font-family:STSong,"宋体";
+	margin: 0px 0px 0px 0px;
+}

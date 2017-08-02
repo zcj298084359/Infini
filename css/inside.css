@@ -1,0 +1,35 @@
+@charset "utf-8";
+.inside_work_wrap{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.video{
+    margin: 0 3% 20px 3%;
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.2);
+    z-index: -1;
+}
+
+iframe{
+	width: 100%;
+}
+
+.details{
+	width: 70%;
+	margin: 0 auto;
+	min-width: 300px;
+	color: #797979;
+	text-align: center;
+}
+
+.details img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.details p{
+	margin-bottom: 20px;
+	line-height: 1.5em;
+	font-size: 0.9em;
+	font-family:STSong,"宋体";
+}
